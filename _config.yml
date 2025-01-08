@@ -24,12 +24,12 @@ timezone: UTC
 
 header_pages:
  - all.html
- - core.html
- - networking.html
- - interface.html
- - erc.html
- - meta.html
- - informational.html
+ # - core.html
+ # - networking.html
+ # - interface.html
+ # - erc.html
+ # - meta.html
+ # - informational.html
 
 # Build settings
 highlighter: rouge
